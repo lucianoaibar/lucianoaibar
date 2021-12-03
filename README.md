@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @lucianoaibar
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning "How to escape from Argentina"
-- 💞️ I’m looking to collaborate on "Let's escape from Argentina"
 - 📫 How to reach me -> lucianoaibar@gmail.com <-
 
 <!---
